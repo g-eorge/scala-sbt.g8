@@ -1,0 +1,1 @@
+### Giter8 template for a Scala project built with SBT.
