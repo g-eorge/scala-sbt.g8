@@ -3,7 +3,7 @@ package $group$
 import org.scalatest._
 import Matchers._
 
-class MainSpec extends FlatSpec {
+class MainTest extends FlatSpec {
 
   "A Main" should "have a test" in {
     "This" should be ("This")
